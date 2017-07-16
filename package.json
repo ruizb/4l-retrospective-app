@@ -1,0 +1,15 @@
+{
+  "name": "4l-retrospective-app",
+  "version": "0.0.1",
+  "description": "Elm app (PoC) to manage a 4L retrospective session",
+  "scripts": {
+    "start": "elm-live src/Main.elm --output=src/elm-app.js --dir=src --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benoit.ruiz01@gmail.com <Benoit Ruiz>",
+  "license": "ISC",
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-live": "^2.7.4"
+  }
+}

@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+dist/
+elm-stuff/
+npm-debug.log
+src/elm-app.js
+.DS_Store

@@ -1,0 +1,44 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.btn-large {
+  display: block;
+  font-size: 3rem;
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+}
+
+.countdown {
+  font-size: 6rem;
+  text-align: center;
+}
+
+.list-group-item:hover {
+  background-color: #f7f7f7;
+}
+
+.participants-list-item-remove {
+  color: #999;
+  cursor: pointer;
+  float: right;
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+.participants-list-item-remove:hover {
+  color: #444;
+}
+
+.theme-description {
+  font-style: italic;
+}
